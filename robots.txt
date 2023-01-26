@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://minjou.github.io/sitemap.xml
+Sitemap: https://main9tw.com/sitemap.xml
