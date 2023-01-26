@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Min</title>
+    <title>Main9</title>
     <link>https://minjou.github.io/</link>
-    <description>Recent content on Min</description>
+    <description>Recent content on Main9</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 25 Jan 2023 11:00:00 +0800</lastBuildDate><atom:link href="https://minjou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://minjou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇文章</title>
-      <link>https://minjou.github.io/blog/post-1/</link>
-      <pubDate>Wed, 25 Jan 2023 11:00:00 +0800</pubDate>
+      <title>網站開站紀錄</title>
+      <link>https://minjou.github.io/posts/life/post-1/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://minjou.github.io/blog/post-1/</guid>
-      <description>Hello World
-啾咪
-一級標題 二級標題 三級標題 六級標題 啾咪啾咪啾咪啾咪
-啾咪啾咪啾咪啾咪
-A B Hello 123 YO 引言放在文章最前面</description>
+      <guid>https://minjou.github.io/posts/life/post-1/</guid>
+      <description>第一篇文章</description>
     </item>
     
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://minjou.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://minjou.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
+    
     
   </channel>
 </rss>
