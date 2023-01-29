@@ -2,20 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://main9tw.com/posts/life/post-1/</loc>
-    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+    <loc>https://main9tw.com/posts/invest/how-to-pick-stocks/</loc>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
   </url><url>
     <loc>https://main9tw.com/</loc>
-    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
   </url><url>
     <loc>https://main9tw.com/posts/</loc>
-    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
   </url><url>
     <loc>https://main9tw.com/tags/</loc>
-    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://main9tw.com/tags/%E5%8F%B0%E8%82%A1/</loc>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://main9tw.com/tags/%E5%9B%A0%E5%AD%90/</loc>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
   </url><url>
     <loc>https://main9tw.com/tags/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</loc>
-    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://main9tw.com/posts/invest/</loc>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://main9tw.com/tags/%E9%81%B8%E8%82%A1/</loc>
+    <lastmod>2023-01-28T23:59:00+08:00</lastmod>
+  </url><url>
+    <loc>https://main9tw.com/posts/invest/2023-01-27-ch/</loc>
+    <lastmod>2023-01-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://main9tw.com/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-01-26T00:00:00+08:00</lastmod>
@@ -26,16 +41,15 @@
     <loc>https://main9tw.com/tags/%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</loc>
     <lastmod>2023-01-26T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://main9tw.com/posts/life/post-1/</loc>
+    <lastmod>2023-01-26T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://main9tw.com/categories/</loc>
   </url><url>
     <loc>https://main9tw.com/series/</loc>
   </url><url>
-    <loc>https://main9tw.com/posts/invest/</loc>
-  </url><url>
     <loc>https://main9tw.com/search/</loc>
   </url><url>
     <loc>https://main9tw.com/archives/</loc>
-  </url><url>
-    <loc>https://main9tw.com/posts/read/</loc>
   </url>
 </urlset>
